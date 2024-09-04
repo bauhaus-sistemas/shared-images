@@ -1,3 +1,14 @@
+<br/>
+<p align="center">
+  <a href="[https://github.com/bauhaus-sistemas/dev-web-files/blob/main/logo.png](https://github.com/bauhaus-sistemas/shared-images/blob/main/logo.png)">
+    <img src="logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Bauhaus Sistemas</h3>
+</p><br/><br/><br/>
+
+
+
 # Repositório de Imagens - Bauhaus Sistemas
 
 Este repositório contém imagens utilizadas exclusivamente para módulos e produtos web desenvolvidos pela **Bauhaus Sistemas**. O objetivo é fornecer um local confiável para hospedar imagens e gerar links compartilháveis que serão referenciados internamente em nossos produtos web.
